@@ -68,7 +68,7 @@ Clean weather dashboard pulling live data from a public API.
   <img width="48%" src="https://streak-stats.demolab.com/?user=FahadImran18&amp;theme=tokyonight" />
 </p>
 <p align="center">
-  <img width="45%" src="https://github-readme-stats-nu-drab-fnfg9k2gi5.vercel.app/?username=FahadImran18&amp;layout=compact&amp;theme=tokyonight" />
+   <img width="45%" src="https://YOUR-VERCEL-DOMAIN/api/top-langs/?username=FahadImran18&amp;layout=compact&amp;theme=tokyonight" />
 </p>
 
 ---
