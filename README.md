@@ -1,5 +1,7 @@
 <!-- Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Fahad%20Imran&fontSize=48&fontAlignY=38&animation=fadeIn)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:6366f1&amp;height=200&amp;section=header&amp;text=Fahad%20Imran&amp;fontSize=48&amp;fontAlignY=38&amp;animation=fadeIn" width="100%" />
+</div>
 
 <p align="center">
   <a href="mailto:fahadimran.7368@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -61,10 +63,12 @@ Clean weather dashboard pulling live data from a public API.
 
 ## GitHub Stats
 
-![stats](https://github-readme-stats-nu-drab-fnfg9k2gi5.vercel.app/api?username=FahadImran18&show_icons=true&theme=tokyonight)
-![streak](https://streak-stats.demolab.com/?user=FahadImran18&theme=tokyonight)
-
-![top-langs](https://github-readme-stats-nu-drab-fnfg9k2gi5.vercel.app/api/top-langs/?username=FahadImran18&layout=compact&theme=tokyonight)
+<div align="center">
+  <img width="48%" src="https://github-readme-stats-nu-drab-fnfg9k2gi5.vercel.app/api?username=FahadImran18&amp;show_icons=true&amp;theme=tokyonight" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=FahadImran18&amp;theme=tokyonight" />
+  <br/><br/>
+  <img width="45%" src="https://github-readme-stats-nu-drab-fnfg9k2gi5.vercel.app/api/top-langs/?username=FahadImran18&amp;layout=compact&amp;theme=tokyonight" />
+</div>
 
 ---
 
