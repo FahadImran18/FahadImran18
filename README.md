@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Fahad%20Imran&fontSize=48&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20%26%20MLOps&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:6366f1&amp;height=220&amp;section=header&amp;text=Fahad%20Imran&amp;fontSize=48&amp;fontAlignY=38&amp;desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20%26%20MLOps&amp;descAlignY=60&amp;animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -79,5 +79,5 @@ Clean weather dashboard pulling live data from a public API.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366f1,100:0f172a&amp;height=120&amp;section=footer" />
 </p>
